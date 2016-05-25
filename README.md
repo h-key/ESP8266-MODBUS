@@ -1,4 +1,9 @@
-Modbus Library for ESP8266  Head on over to https://github.com/andresarmento/modbus-esp8266 this is where I got this He gets all the credit
+Modbus Library for ESP8266
+==============================  
+Head on over to https://github.com/andresarmento/modbus-esp8266 
+this is where I got this He gets all the credit
+
+
 
 
 This library allows your ESP8266 to communicate via Modbus protocol. The Modbus is a master-slave protocol
